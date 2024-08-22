@@ -1,0 +1,17 @@
+.st-emotion-cache-j5r0tf.e1f1d6gn3{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #6921B5;
+}
+.diagnosis{
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+.diagnosis.absent{
+    background-color: #1941FE;
+}
+
+.diagnosis.present{
+    background-color: #DA3260;
+}
